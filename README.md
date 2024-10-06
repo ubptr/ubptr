@@ -18,7 +18,7 @@
 - PHP • Shell
 
 ## Repo Stats 🔥
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=ubptr&repo=wabot&theme=highcontrast)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=ubptr&repo=RazpedWaBot&theme=highcontrast)
 
 
 
